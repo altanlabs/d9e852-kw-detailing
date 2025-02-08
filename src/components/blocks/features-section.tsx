@@ -14,8 +14,8 @@ const features = [
   },
   {
     icon: <Clock className="h-6 w-6" />,
-    title: "Convenient Scheduling",
-    description: "Flexible appointment times to fit your schedule"
+    title: "Open 7 Days",
+    description: "Convenient service every day of the week"
   },
   {
     icon: <Car className="h-6 w-6" />,
