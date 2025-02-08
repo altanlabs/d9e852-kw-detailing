@@ -29,8 +29,8 @@ const features = [
   },
   {
     icon: <Award className="h-6 w-6" />,
-    title: "KW's Finest",
-    description: "Trusted by vehicle owners across Kitchener-Waterloo"
+    title: "Cork's Finest",
+    description: "Trusted by vehicle owners throughout Cork"
   }
 ];
 
@@ -40,7 +40,7 @@ const FeaturesSection = () => {
       <div className="text-center mb-12">
         <h2 className="text-3xl font-bold mb-4">Why Choose KW Detailing?</h2>
         <p className="text-muted-foreground">
-          Experience the highest standard of car care in the Kitchener-Waterloo region
+          Experience the highest standard of car care in Cork
         </p>
       </div>
       <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
