@@ -1,11 +1,11 @@
 import { Card } from "@/components/ui/card";
-import { Sparkles, Shield, Clock, Car, Droplets, Award } from "lucide-react";
+import { Sparkles, Shield, Clock, Car, Droplets, Award, Spray } from "lucide-react";
 
 const features = [
   {
     icon: <Sparkles className="h-6 w-6" />,
-    title: "Premium Detailing",
-    description: "Expert detailing services using professional-grade products"
+    title: "Premium Products",
+    description: "Using only the highest quality professional-grade cleaning products"
   },
   {
     icon: <Shield className="h-6 w-6" />,
@@ -24,8 +24,8 @@ const features = [
   },
   {
     icon: <Droplets className="h-6 w-6" />,
-    title: "Interior & Exterior",
-    description: "Comprehensive cleaning inside and out"
+    title: "Professional Care",
+    description: "Top-tier detailing with premium cleaning solutions"
   },
   {
     icon: <Award className="h-6 w-6" />,
@@ -40,7 +40,7 @@ const FeaturesSection = () => {
       <div className="text-center mb-12">
         <h2 className="text-3xl font-bold mb-4">Why Choose KW Detailing?</h2>
         <p className="text-muted-foreground">
-          Experience the highest standard of car care in Cork
+          Experience the highest standard of car care in Cork using premium cleaning products
         </p>
       </div>
       <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
