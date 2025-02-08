@@ -13,7 +13,6 @@ const Footer = () => {
             <h3 className="font-bold text-lg mb-4">Contact</h3>
             <ul className="space-y-2 text-muted-foreground">
               <li>Email: info@kwdetailing.ie</li>
-              <li>Phone: (021) XXX-XXXX</li>
               <li>Cork, Ireland</li>
             </ul>
           </div>
