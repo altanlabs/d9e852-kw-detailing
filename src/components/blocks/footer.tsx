@@ -4,17 +4,17 @@ const Footer = () => {
       <div className="container mx-auto px-4 py-8">
         <div className="grid grid-cols-1 md:grid-cols-3 gap-8">
           <div>
-            <h3 className="font-bold text-lg mb-4">KW Detailing</h3>
+            <h3 className="font-bold text-lg mb-4">KW Detailing Cork</h3>
             <p className="text-muted-foreground">
-              Professional auto detailing services in the Kitchener-Waterloo region.
+              Professional auto detailing services in Cork and surrounding areas.
             </p>
           </div>
           <div>
             <h3 className="font-bold text-lg mb-4">Contact</h3>
             <ul className="space-y-2 text-muted-foreground">
-              <li>Email: info@kwdetailing.com</li>
-              <li>Phone: (519) XXX-XXXX</li>
-              <li>Kitchener-Waterloo, ON</li>
+              <li>Email: info@kwdetailing.ie</li>
+              <li>Phone: (021) XXX-XXXX</li>
+              <li>Cork, Ireland</li>
             </ul>
           </div>
           <div>
@@ -27,7 +27,7 @@ const Footer = () => {
           </div>
         </div>
         <div className="text-center mt-8 pt-8 border-t text-muted-foreground">
-          <p>&copy; {new Date().getFullYear()} KW Detailing. All rights reserved.</p>
+          <p>&copy; {new Date().getFullYear()} KW Detailing Cork. All rights reserved.</p>
         </div>
       </div>
     </footer>
