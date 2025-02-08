@@ -14,14 +14,15 @@ const HeroSection = () => {
             KW Detailing Cork
           </h1>
           <p className="text-xl md:text-2xl text-muted-foreground mb-4">
-            Professional Auto Detailing Services in Cork
+            Professional Auto Detailing Services Using Premium Products
           </p>
           <p className="text-2xl font-semibold text-primary mb-8">
             Flat Rate: €6 per Vehicle
           </p>
           <p className="text-lg mb-8 max-w-2xl mx-auto">
             Transform your vehicle with our premium detailing services. 
-            Serving Cork and surrounding areas with exceptional car care.
+            We use only the highest quality cleaning products to ensure 
+            exceptional results for every vehicle we service in Cork.
           </p>
           <Button size="lg" onClick={scrollToScheduling}>
             Schedule Now
