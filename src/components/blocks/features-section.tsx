@@ -1,5 +1,5 @@
 import { Card } from "@/components/ui/card";
-import { Sparkles, Shield, Clock, Car, Droplets, Award, Spray } from "lucide-react";
+import { Sparkles, Shield, Clock, Car, Droplets, Award } from "lucide-react";
 
 const features = [
   {
